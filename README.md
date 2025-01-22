@@ -26,6 +26,7 @@
 Mi nombre es **Emilio Senguana** y bienvenido a mi perfil.
  
 Actualmente estoy cursando una Ingeniería en Tecnologías de la Información en la Universidad Estatal Amazónica. Mi lema es aprender de cualquier situación, crecer como individuo y ayudar siempre a los demás.
+</div>
 
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
