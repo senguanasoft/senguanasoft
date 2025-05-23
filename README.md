@@ -9,10 +9,10 @@
   
 [badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
 <div id="badges">
-<a href="https://www.linkedin.com/in/emiliosdev/">
+<a href="https://www.linkedin.com/in/senguanasoft/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.instagram.com/emiliosdev/">
+<a href="https://www.instagram.com/senguanasoft/">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
 </a>
 <a href="mailto:sengua2017@gmail.com">
